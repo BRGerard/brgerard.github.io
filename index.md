@@ -1,5 +1,4 @@
-Table of Contents
-1. [About](#about)
+[About](#about) [Projects](#projects) [#Contact](#contact)
 
 ## Lorem Ipsum
 
