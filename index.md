@@ -1,4 +1,4 @@
-[About](#about) [Projects](#projects) [Contact](#contact)
+[About](about.md) [Projects](projects.md) [Contact](contact.md)
 
 ## Lorem Ipsum
 
