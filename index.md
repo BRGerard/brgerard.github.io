@@ -1,4 +1,5 @@
-[About](about.md) [Projects](projects.md) [Contact](contact.md)
+|[About](about.md)| [Projects](projects.md)| [Contact](contact.md)|
+------------------|------------------------|----------------------|
 
 ## Lorem Ipsum
 
