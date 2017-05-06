@@ -1,4 +1,4 @@
-|  [About](about.md) | [Projects](projects.md)  |  ["Technical" Blog](blog.md) | [Contact](contact.md)  |
+|  [ABOUT](about.md) | [PROJECTS](projects.md)  |  ["TECHNICAL" BLOG](blog.md) | [CONTACT](contact.md)  |
 
 
 ## Lorem Ipsum
