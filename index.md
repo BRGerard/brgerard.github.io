@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Lorem Ipsum
 
-You can use the [editor on GitHub](https://github.com/BRGerard/brgerard.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse arcu est, tincidunt sed pellentesque quis, fermentum sed odio. Fusce at rhoncus nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lobortis condimentum mauris a maximus. Etiam venenatis posuere elit ut tempor. Praesent ac velit nisl. Vestibulum convallis magna a eros semper, eu interdum nisl sagittis. In eu iaculis velit. Aenean viverra dolor sit amet aliquam molestie. Praesent interdum odio vitae maximus finibus. Nulla nec gravida sapien. Donec et orci odio. Mauris sit amet magna sodales erat condimentum dapibus. Proin nec tincidunt ligula. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Lorem Ipsum
 
-### Markdown
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse arcu est, tincidunt sed pellentesque quis, fermentum sed odio. Fusce at rhoncus nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lobortis condimentum mauris a maximus. Etiam venenatis posuere elit ut tempor. Praesent ac velit nisl. Vestibulum convallis magna a eros semper, eu interdum nisl sagittis. In eu iaculis velit. Aenean viverra dolor sit amet aliquam molestie. Praesent interdum odio vitae maximus finibus. Nulla nec gravida sapien. Donec et orci odio. Mauris sit amet magna sodales erat condimentum dapibus. Proin nec tincidunt ligula. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lorem Ipsum
 
-```markdown
-Syntax highlighted code block
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse arcu est, tincidunt sed pellentesque quis, fermentum sed odio. Fusce at rhoncus nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam lobortis condimentum mauris a maximus. Etiam venenatis posuere elit ut tempor. Praesent ac velit nisl. Vestibulum convallis magna a eros semper, eu interdum nisl sagittis. In eu iaculis velit. Aenean viverra dolor sit amet aliquam molestie. Praesent interdum odio vitae maximus finibus. Nulla nec gravida sapien. Donec et orci odio. Mauris sit amet magna sodales erat condimentum dapibus. Proin nec tincidunt ligula. 
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Me
+Email: Brett.R.Gerard@Gmail.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BRGerard/brgerard.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
